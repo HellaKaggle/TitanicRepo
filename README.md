@@ -1,1 +1,3 @@
-This repo is mainly for completing the Titanic Kaggle Prediction Competition (https://www.kaggle.com/c/titanic/overview) in case you are interested as well). All data sources are gathering from the webpage and are publically available. 
+# TeamCode
+Kaggle Competition - Titanic: Machine Learning From Disaster 
+Xinbo's repo
